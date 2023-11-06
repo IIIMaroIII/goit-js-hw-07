@@ -165,6 +165,7 @@ label {
 #boxes {
   padding: 32px;
   display: flex;
+  flex-wrap: wra;
   gap: 16px;
   background-color: rgba(246, 246, 254, 1);
   border-radius: 8px;
