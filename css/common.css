@@ -80,7 +80,7 @@ ul {
 
 .gallery__item {
   flex-basis: calc((100% - 48px) / 3);
-  height: 89px;
+  height: 100%;
   text-decoration: none;
   color: black;
   background-color: #fff;
